@@ -1,0 +1,9 @@
+/* Importing Tailwind CSS */
+@import "tailwindcss" ;
+
+/* Custom Body Styles */
+body {
+    background-color: rgb(241, 245, 241)
+}
+
+/* Add other global styles as needed */
